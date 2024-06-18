@@ -7,9 +7,9 @@ public class Main {
         List<String> books = new ArrayList<>();
         books.add("Оно");
         books.add("Ана");
-        books.add("Оно");
+        books.add("Они");
         books.add("Ана");
-        books.add("Оно");
+        books.add("Ана");
         books.add("Ана");
         books.add("Оно");
         books.add("Ана");
